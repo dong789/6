@@ -76,12 +76,13 @@
 "sites": [	{
       "key": "YGFXZ",
       "name": "💖一个分享者💖想看请搜索，或者点💖切换线路",
-      "type": 3,"jar":" https://www.shqsy.com/tv/sx.jar;md5;9618c9468dec9db02a561095fa6dc219",
+      "type": 3,
       "api": "https://www.aisx.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
+      "jar":"https://www.shqsy.com/tv/sx.jar;md5;9618c9468dec9db02a561095fa6dc219",
       "categories": [
 	      "电影",
 	      "电视剧",
